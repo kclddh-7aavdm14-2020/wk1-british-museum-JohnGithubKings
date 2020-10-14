@@ -14,7 +14,7 @@ The first thing to do is to clone this repository onto your personal computer, s
 6. Now you're in. Select index.html and edit away. See below for a selection of tags to use.
 7. To see how this appears in a browser, right click on your code and select Open in Other Browsers. After you make a change in the html, refreshing the page in the browser to update it.
 
-## HTML tags of the week
+## HTML tags of the week  
 
 Now you can write a 250 word blog post about your expedition to the British Museum within the HTML template in this repository.
 
